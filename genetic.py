@@ -1,4 +1,4 @@
-# File from chapter 16 of _Genetic Algorithms with Python_, from Clinton Sheppard <fluentcoder@gmail.com>
+# Based on chapter 16 of _Genetic Algorithms with Python_, from Clinton Sheppard <fluentcoder@gmail.com>
 
 import random
 import statistics
