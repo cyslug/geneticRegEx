@@ -1,5 +1,5 @@
 
-# geneticRegEx
+# Generating regular expressions with genetic algorithms
 Building Regular Expressions with Genetic Algorithms
 
 Based on:
